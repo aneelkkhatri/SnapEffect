@@ -1,6 +1,6 @@
 ---
 ---
-**SnapEffect - Terms and Conditions**
+# Terms and Conditions
 
 These Terms and Conditions govern your use of the SnapEffect Canva application, developed by Aneel Kumar. If you do not agree to these Terms, please do not use the App.
 
