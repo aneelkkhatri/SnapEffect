@@ -1,4 +1,4 @@
-**SnapEffect - Privacy Policy**
+# SnapEffect - Privacy Policy
 
 This Privacy Policy outlines how we handle your information when you use our app. 
 
